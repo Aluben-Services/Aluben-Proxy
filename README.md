@@ -3,8 +3,8 @@
 <p>1. run </p>
 
 ```
-git clone https://github.com/SpeedSlicer/Ultraviolet-Static.git
-cd Ultraviolet-Static
+git clone https://github.com/SpeedSlicer/Aluben-Static.git
+cd Aluben-Static
 ```
 <p>2. Then run</p>
 
