@@ -3,7 +3,7 @@
 <p>1. run </p>
 
 ```
-git clone https://github.com/SpeedSlicer/Aluben-Static.git
+git clone https://github.com/Aluben-Services/Ultraviolet-Static.git
 cd Aluben-Static
 ```
 <p>2. Then run</p>
