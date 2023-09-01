@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/SpeedSlicer/Aluben-Static/main/public/logo.jpg?token=GHSAT0AAAAAACHAKIV4GVL5DGDPUIHY7U76ZHRE4DA" height="200"></p>
+<p align="center"><img src="https://github.com/SpeedSlicer/Aluben-Static/blob/main/public//logo.jpg" height="200"></p>
 <h1>Guide to running this program.</h1>
 <p>1. run </p>
 
